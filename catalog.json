@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "package": "dev.personal.store",
+      "name": "내 앱",
+      "description": "앱 설치와 업데이트",
+      "version": "0.1.2",
+      "code": 3,
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "58020ca0bf17d447e99d18167a5fc4d9cbf43f4dddfaea629b16bdffd8ff13ec",
+      "url": "https://hspark-res.github.io/android-apps/apk/app-store-0.1.2.apk"
+    },
+    {
+      "package": "dev.personal.calculator",
+      "name": "계산기",
+      "description": "사칙연산과 계산 기록",
+      "code": 1,
+      "version": "0.1.0",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "84b505b32e8e86a8c1dc430fed7f02c120771b91781ee6330c4b1deecf387e15",
+      "url": "https://hspark-res.github.io/android-apps/apk/calculator-0.1.0.apk"
+    },
+    {
+      "package": "dev.personal.files",
+      "name": "파일 관리자",
+      "description": "기기 폴더, Google Drive, WebDAV",
+      "code": 1,
+      "version": "0.1.0",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "aa2d54ca76b543a16dc9c02d364e7756cfd4e51624b31c4654ff36a5470155f5",
+      "url": "https://hspark-res.github.io/android-apps/apk/file-manager-0.1.0.apk"
+    },
+    {
+      "package": "dev.personal.gallery",
+      "name": "사진 갤러리",
+      "description": "폴더별 사진 보기와 확대",
+      "code": 2,
+      "version": "0.1.1",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "8eeabed440dca138aa4bb1a309cc19c7655f4f71e18c98c4098e0f488a41d6ad",
+      "url": "https://hspark-res.github.io/android-apps/apk/photo-gallery-0.1.1.apk"
+    },
+    {
+      "package": "dev.personal.music",
+      "name": "음악 플레이어",
+      "description": "기기 음원과 잠금 화면 재생",
+      "code": 1,
+      "version": "0.1.0",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "87615ac1e43ae78ddc1f377f597d3909699ec8981bc8c1cdaca3d3e25978962f",
+      "url": "https://hspark-res.github.io/android-apps/apk/music-player-0.1.0.apk"
+    },
+    {
+      "package": "dev.vaultsync.app",
+      "name": "Vault Sync",
+      "description": "Obsidian 보관함과 GitHub 동기화",
+      "code": 2,
+      "version": "0.1.1",
+      "signer": "1134b02ccf500d1912a2fd5078bf4a120cffbcad13f9cf218b5809602aff78e9",
+      "sha256": "eb69bd8c564a0006bbfddf271e91db2fdfc4a0ef31c25d5455ac70cf20012f2e",
+      "url": "https://hspark-res.github.io/android-apps/apk/vault-sync-0.1.1.apk"
+    }
+  ]
+}
