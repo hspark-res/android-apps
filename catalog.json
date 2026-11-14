@@ -43,12 +43,12 @@
     {
       "package": "dev.personal.music",
       "name": "음악 플레이어",
-      "description": "기기 음원과 잠금 화면 재생",
-      "code": 1,
-      "version": "0.1.0",
+      "description": "폴더별 음악 재생과 잠금 화면 제어",
+      "code": 2,
+      "version": "0.1.1",
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "87615ac1e43ae78ddc1f377f597d3909699ec8981bc8c1cdaca3d3e25978962f",
-      "url": "https://hspark-res.github.io/android-apps/apk/music-player-0.1.0.apk"
+      "sha256": "4241a7dfed433186cd0dfeca8eb15b39d7bf0dca22b62f3b5e93ac377d410cf8",
+      "url": "https://hspark-res.github.io/android-apps/apk/music-player-0.1.1.apk"
     },
     {
       "package": "dev.vaultsync.app",
