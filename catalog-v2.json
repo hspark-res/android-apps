@@ -4,11 +4,11 @@
       "package": "dev.personal.store",
       "name": "내 앱",
       "description": "앱 설치와 업데이트",
-      "version": "0.1.3",
-      "code": 4,
+      "version": "0.1.4",
+      "code": 5,
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "9b69133162925c43508c815e05b2c71915e456b5dc8fef97a7e49df82d16fbcc",
-      "url": "https://hspark-res.github.io/android-apps/apk/app-store-0.1.3.apk"
+      "sha256": "75255deff30cbbba1612f8ba510f76b86903ced3c90f1eda31adc2b3900aa69a",
+      "url": "https://hspark-res.github.io/android-apps/apk/app-store-0.1.4.apk"
     },
     {
       "package": "dev.personal.calculator",
