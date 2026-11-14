@@ -13,12 +13,12 @@
     {
       "package": "dev.personal.calculator",
       "name": "계산기",
-      "description": "사칙연산과 계산 기록",
-      "code": 1,
-      "version": "0.1.0",
+      "description": "화면을 채우는 기본·공학용 계산기",
+      "code": 2,
+      "version": "0.1.1",
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "84b505b32e8e86a8c1dc430fed7f02c120771b91781ee6330c4b1deecf387e15",
-      "url": "https://hspark-res.github.io/android-apps/apk/calculator-0.1.0.apk"
+      "sha256": "12258cc375331ccb2256f9d24ed6a41ced670b29b936227f4ee7a192dea3af26",
+      "url": "https://hspark-res.github.io/android-apps/apk/calculator-0.1.1.apk"
     },
     {
       "package": "dev.personal.files",
