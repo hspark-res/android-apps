@@ -74,11 +74,11 @@
       "package": "dev.personal.hwp",
       "name": "한글 문서 뷰어",
       "description": "rhwp 기반 오프라인 HWP·HWPX 보기",
-      "code": 3,
-      "version": "0.1.2",
+      "code": 4,
+      "version": "0.1.3",
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "22cfe939e11054442710a1d2815234e5f758054d193b5b07622d40b6bbef79af",
-      "url": "https://hspark-res.github.io/android-apps/apk/hwp-viewer-0.1.2.apk"
+      "sha256": "6283f55d3b2a5192d1e8f808730f28c996e3e9cb487a7fab28b8fa0fad95ccf0",
+      "url": "https://hspark-res.github.io/android-apps/apk/hwp-viewer-0.1.3.apk"
     }
   ]
 }
