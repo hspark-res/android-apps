@@ -64,11 +64,11 @@
       "package": "dev.personal.pdf",
       "name": "PDF 뷰어",
       "description": "PDF 보기·확대·페이지 이동",
-      "code": 1,
-      "version": "0.1.0",
+      "code": 2,
+      "version": "0.1.1",
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "969cd04271083f40758d7ac966764e1ae6330e9cb6b5de17c6cdb3c47dd0c021",
-      "url": "https://hspark-res.github.io/android-apps/apk/pdf-viewer-0.1.0.apk"
+      "sha256": "d833319ff8c49e1a9f41c67e4bd3ce872c931df0df978d6f43e8ef9c350af0cf",
+      "url": "https://hspark-res.github.io/android-apps/apk/pdf-viewer-0.1.1.apk"
     }
   ]
 }
