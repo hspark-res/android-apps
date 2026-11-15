@@ -24,11 +24,11 @@
       "package": "dev.personal.files",
       "name": "파일 관리자",
       "description": "기기 폴더, Google Drive, WebDAV",
-      "code": 3,
-      "version": "0.1.2",
+      "code": 4,
+      "version": "0.1.3",
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "826a7ec3cdb961168daecfcc89e36f9550633a4e2ce7a3ad2c41eeec66e46aab",
-      "url": "https://hspark-res.github.io/android-apps/apk/file-manager-0.1.2.apk"
+      "sha256": "46ba02bad2e04e73054d1cc74584b2cd6f68b64d6164c72f94b4c878ef5101a2",
+      "url": "https://hspark-res.github.io/android-apps/apk/file-manager-0.1.3.apk"
     },
     {
       "package": "dev.personal.gallery",
