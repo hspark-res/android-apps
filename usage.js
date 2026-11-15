@@ -1,6 +1,6 @@
 // Store consent for this notice revision, independently of APK versions.
 (() => {
-  const revision = 'usage-2026-11-15-v1', key = 'android-apps-usage-consent';
+  const revision = 'usage-2026-11-15-v2', key = 'android-apps-usage-consent';
   const dialog = document.getElementById('usage-dialog');
   let agreed = false, pending = null;
   try { agreed = localStorage.getItem(key) === revision; } catch (_) {}
