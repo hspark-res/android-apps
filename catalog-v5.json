@@ -1,0 +1,104 @@
+{
+  "apps": [
+    {
+      "package": "dev.personal.store",
+      "name": "내 앱",
+      "description": "앱 설치와 업데이트",
+      "version": "0.1.8",
+      "code": 9,
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "570dbaebc44a9526f917f880f500def3ff7222e45893d9b7b18003e09c305405",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/app-store-0.1.8.apk"
+    },
+    {
+      "package": "dev.personal.calculator",
+      "name": "계산기",
+      "description": "화면을 채우는 기본·공학용 계산기",
+      "code": 2,
+      "version": "0.1.1",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "12258cc375331ccb2256f9d24ed6a41ced670b29b936227f4ee7a192dea3af26",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/calculator-0.1.1.apk"
+    },
+    {
+      "package": "dev.personal.files",
+      "name": "파일 관리자",
+      "description": "기기 폴더, Google Drive, WebDAV",
+      "code": 5,
+      "version": "0.1.4",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "abaaf62c9c8c8b5a14c058ad627f3294799a92c01cc18e0982bc0552f6ca8db1",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/file-manager-0.1.4.apk"
+    },
+    {
+      "package": "dev.personal.gallery",
+      "name": "사진 갤러리",
+      "description": "폴더별 사진 보기와 확대",
+      "code": 2,
+      "version": "0.1.1",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "8eeabed440dca138aa4bb1a309cc19c7655f4f71e18c98c4098e0f488a41d6ad",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/photo-gallery-0.1.1.apk"
+    },
+    {
+      "package": "dev.personal.music",
+      "name": "음악 플레이어",
+      "description": "폴더별 음악 재생과 잠금 화면 제어",
+      "code": 2,
+      "version": "0.1.1",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "4241a7dfed433186cd0dfeca8eb15b39d7bf0dca22b62f3b5e93ac377d410cf8",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/music-player-0.1.1.apk"
+    },
+    {
+      "package": "dev.vaultsync.app",
+      "name": "Vault Sync",
+      "description": "Obsidian 보관함과 GitHub 동기화",
+      "code": 4,
+      "version": "0.1.3",
+      "signer": "1134b02ccf500d1912a2fd5078bf4a120cffbcad13f9cf218b5809602aff78e9",
+      "sha256": "9a4eb34a2a86bcb3d6328288cc4e6adc1e5727d0f1c8f0b27f5c5875784a41a5",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/vault-sync-0.1.3.apk"
+    },
+    {
+      "package": "dev.personal.pdf",
+      "name": "PDF 뷰어",
+      "description": "PDF 보기·확대·페이지 이동",
+      "code": 5,
+      "version": "0.1.4",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "d0d4a1f1ed7b2c7f6a485b7092bbcb6167b978048703debf79e2be7da6a0ea7b",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/pdf-viewer-0.1.4.apk"
+    },
+    {
+      "package": "dev.personal.hwp",
+      "name": "한글 문서 뷰어",
+      "description": "rhwp 기반 오프라인 HWP·HWPX 보기",
+      "code": 7,
+      "version": "0.1.6",
+      "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
+      "sha256": "72a1aa7e4d74f2cb251e1ef154dfd69556024036cfdb1083b00545016c9bc8eb",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/hwp-viewer-0.1.6.apk"
+    },
+    {
+      "package": "kr.kkukdamda",
+      "name": "꾹담아",
+      "description": "7z 압축·해제와 파일 관리 (시험판)",
+      "code": 10,
+      "version": "0.2.8-private",
+      "signer": "98baf895ee9b3fc4ba74199141805110f67971c7354b2046d1b5eb0c9dc673fb",
+      "sha256": "b95379a1cda650d28dd490744b205b6e967f2c25b3c3add76d222185bcd6107f",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/kkukdama-0.2.8.apk"
+    },
+    {
+      "package": "dev.byeolbit.moa",
+      "name": "별빛모아",
+      "description": "연속 촬영·사진 정렬·평균 합성 (시험판)",
+      "code": 6,
+      "version": "0.3.1-m3",
+      "signer": "40f1ae4308613d4fe9515b8c30dbecb98557dc488ef9493aef667f7c68764ca0",
+      "sha256": "67ef56488574e918a41ecc1e2b021bee013aad2665963c5fd689e0bd38027544",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/byeolbit-moa-0.3.1.apk"
+    }
+  ]
+}

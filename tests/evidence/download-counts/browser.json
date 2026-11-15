@@ -1,0 +1,110 @@
+{
+  "run": "https://github.com/hspark-res/vault-sync-e2e-20261107-01/actions/runs/43713531493",
+  "scope": "checked-out site served on disposable CI with live GitHub Releases API; failure handling uses injected HTTP 403",
+  "counts": {
+    "pass": true,
+    "base": "http://127.0.0.1:8765",
+    "liveGitHubAPI": true,
+    "checks": [
+      "10 app rows populated from public Release counters",
+      "360px screen fits without horizontal page overflow",
+      "version details expandable",
+      "no cookies or localStorage created by stats page",
+      "only same-site resources and anonymous GETs to public GitHub releases API",
+      "failed refresh retains last successful counts",
+      "failed initial read does not fabricate zero counts",
+      "no JavaScript errors"
+    ],
+    "requests": [
+      {
+        "url": "http://127.0.0.1:8765/downloads.html",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/style.css",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/downloads.mjs",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/catalog-v5.json",
+        "method": "GET"
+      },
+      {
+        "url": "https://api.github.com/repos/hspark-res/android-apps/releases?per_page=100&page=1",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/catalog-v5.json",
+        "method": "GET"
+      },
+      {
+        "url": "https://api.github.com/repos/hspark-res/android-apps/releases?per_page=100&page=1",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/downloads.html",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/style.css",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/downloads.mjs",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/catalog-v5.json",
+        "method": "GET"
+      },
+      {
+        "url": "https://api.github.com/repos/hspark-res/android-apps/releases?per_page=100&page=1",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/downloads.html",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/style.css",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/downloads.mjs",
+        "method": "GET"
+      },
+      {
+        "url": "http://127.0.0.1:8765/catalog-v5.json",
+        "method": "GET"
+      },
+      {
+        "url": "https://api.github.com/repos/hspark-res/android-apps/releases?per_page=100&page=1",
+        "method": "GET"
+      }
+    ]
+  },
+  "consentDownloads": {
+    "pass": true,
+    "base": "http://127.0.0.1:8765",
+    "downloadBytes": [
+      20950,
+      20950,
+      20950,
+      20950
+    ],
+    "checks": [
+      "download cancel does not download or save consent",
+      "accept downloads exactly once",
+      "subsequent different APK download has no prompt",
+      "reload preserves consent",
+      "browser process restart preserves consent",
+      "read-only notice remains accessible",
+      "360x640 accept button is visible",
+      "desktop has no horizontal overflow",
+      "no page script errors"
+    ]
+  }
+}

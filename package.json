@@ -2,7 +2,9 @@
   "name": "android-apps-site",
   "private": true,
   "scripts": {
-    "test:usage": "node tests/usage-consent.mjs"
+    "test:usage": "node tests/usage-consent.mjs",
+    "test:downloads": "node tests/downloads-unit.mjs",
+    "test:downloads-browser": "node tests/downloads-browser.mjs"
   },
   "devDependencies": {
     "playwright-core": "1.65.1"

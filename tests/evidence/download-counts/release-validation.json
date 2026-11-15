@@ -1,0 +1,10 @@
+{
+  "pass": true,
+  "verifiedAt": "2026-11-15T12:19:56.653989+00:00",
+  "checks": [
+    "all 10 Release asset server-side SHA256 digests and byte sizes match production catalog and local APKs",
+    "calculator counter observed increasing from 0 before verification downloads to at least 1 afterward"
+  ],
+  "calculatorCountObserved": 1,
+  "releaseURL": "https://github.com/hspark-res/android-apps/releases/tag/downloads-20261115"
+}
