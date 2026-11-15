@@ -1,0 +1,42 @@
+{
+  "verified": true,
+  "base": "https://hspark-res.github.io/android-apps/",
+  "noticeRevision": "usage-2026-11-15-v1",
+  "catalogs": [
+    "catalog.json",
+    "catalog-v2.json",
+    "catalog-v3.json"
+  ],
+  "releases": [
+    {
+      "repo": "app-store",
+      "package": "dev.personal.store",
+      "version": "0.1.5",
+      "code": 6,
+      "sha256": "91faaaa30b616d17c92f871b7ffc33061b596f638ccae855c7c301c4307d8329",
+      "url": "https://hspark-res.github.io/android-apps/apk/app-store-0.1.5.apk",
+      "bytes": 24728676,
+      "downloadedBytes": 24728676
+    },
+    {
+      "repo": "file-manager",
+      "package": "dev.personal.files",
+      "version": "0.1.1",
+      "code": 2,
+      "sha256": "49cf864724b2d0dafee301749332cd2c5f9ca7f47a1520e86cf948c81b60b5d5",
+      "url": "https://hspark-res.github.io/android-apps/apk/file-manager-0.1.1.apk",
+      "bytes": 1176084,
+      "downloadedBytes": 1176084
+    },
+    {
+      "repo": "vault-sync",
+      "package": "dev.vaultsync.app",
+      "version": "0.1.2",
+      "code": 3,
+      "sha256": "30a1f7b8575db9c0093dcb183d290f338ef8762f03aad67c6b7c20c3f35b4a37",
+      "url": "https://hspark-res.github.io/android-apps/apk/vault-sync-0.1.2.apk",
+      "bytes": 10890656,
+      "downloadedBytes": 10890656
+    }
+  ]
+}

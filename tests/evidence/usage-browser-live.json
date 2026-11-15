@@ -1,0 +1,23 @@
+{
+  "pass": true,
+  "base": "https://hspark-res.github.io/android-apps/",
+  "downloadBytes": [
+    20950,
+    20950,
+    20950,
+    20950
+  ],
+  "checks": [
+    "download cancel does not download or save consent",
+    "accept downloads exactly once",
+    "subsequent different APK download has no prompt",
+    "reload preserves consent",
+    "browser process restart preserves consent",
+    "read-only notice remains accessible",
+    "360x640 accept button is visible",
+    "desktop has no horizontal overflow",
+    "no page script errors"
+  ],
+  "run": "https://github.com/hspark-res/vault-sync-e2e-20261107-01/actions/runs/43665893237",
+  "environment": "Independent Ubuntu 24.04 GitHub Actions Chrome; actual small APK downloads"
+}
