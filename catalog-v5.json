@@ -4,11 +4,11 @@
       "package": "dev.personal.store",
       "name": "내 앱",
       "description": "앱 설치와 업데이트",
-      "version": "0.1.8",
-      "code": 9,
+      "version": "0.1.9",
+      "code": 10,
       "signer": "7537bb7af7967d3e3d7f6c3d295dca4eba583c198d443f145dcb223306f27248",
-      "sha256": "570dbaebc44a9526f917f880f500def3ff7222e45893d9b7b18003e09c305405",
-      "url": "https://github.com/hspark-res/android-apps/releases/download/downloads-20261115/app-store-0.1.8.apk"
+      "sha256": "4e04798567b39f27a15d0926fb75d353969edc8343ffc215c8ea872b47b69734",
+      "url": "https://github.com/hspark-res/android-apps/releases/download/ttakjaba-v0.1.0/app-store-0.1.9.apk"
     },
     {
       "package": "dev.personal.calculator",

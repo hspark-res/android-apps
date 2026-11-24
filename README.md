@@ -28,3 +28,7 @@ APK·업데이트 카탈로그·정적 사이트만 공개한다. 앱 소스는 
 `npm run test:downloads`로 합산·페이지 처리·오류·익명 요청 옵션을 검사하고, 정적 서버 실행 후 `npm run test:downloads-browser`로 실 API·모바일 배치·조회 실패 처리·저장소/쿠키 미생성·외부 요청 범위를 확인한다. 다운로드 검증 자체도 Releases 횟수에 반영될 수 있다.
 
 [통계·브라우저 실행](https://github.com/hspark-res/vault-sync-e2e-20261107-01/actions/runs/43713531493)에서 실 API 카운터 조회, 한글 글꼴을 포함한 360px/1280px 배치, 쿠키/저장소 미생성, 요청 범위, 인위적 API 오류 처리, 실제 Releases APK 다운로드와 동의 유지를 검증했다. [결과](tests/evidence/download-counts/browser.json) · [모바일 화면](tests/evidence/download-counts/mobile.png). 공개 자산 10개의 서버 SHA-256·바이트 크기가 목록과 일치하고, 검증 다운로드 후 계산기 공개 카운터가 0에서 1 이상으로 증가한 것을 확인했다. [APK 및 카운터 검증](tests/evidence/download-counts/release-validation.json). [Android 설치 검증](https://github.com/hspark-res/vault-sync-e2e-20261107-01/actions/runs/43713082776)은 비공개 내 앱 저장소에 별도로 보관한다.
+
+## 딱잡아 배포
+
+내 앱 0.1.9의 기본 목록은 `catalog-v6.json`입니다. 딱잡아는 v6에 추가하고, 이전 목록의 지원 패키지는 유지합니다. 구형 내 앱의 자체 업데이트는 v1–v4에는 Pages APK, v5에는 Release APK를 사용합니다. 웹 다운로드 통계는 v6을 읽습니다.

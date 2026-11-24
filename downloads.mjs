@@ -68,7 +68,7 @@ if (typeof document !== 'undefined') {
   async function refresh() {
     button.disabled = true; status.textContent = '횟수를 불러오는 중입니다.';
     try {
-      const response = await fetch('./catalog-v5.json', {credentials: 'omit', cache: 'no-store'});
+      const response = await fetch('./catalog-v6.json', {credentials: 'omit', cache: 'no-store'});
       if (!response.ok) throw new Error('배포 목록을 읽지 못했습니다.');
       const catalog = await response.json();
       const rows = summarizeDownloads(await fetchReleases(), catalog.apps);
